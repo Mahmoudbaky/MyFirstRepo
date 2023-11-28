@@ -8,5 +8,9 @@ int main(){
     printf("hello \n");
     printf("mohamed\n");
     printf("khaled \n");
+
+    printf("lol ");
+    printf("xd \n");
+
     
 }
