@@ -6,4 +6,7 @@
 int main(){
     printf("mahmoud \n");
     printf("hello \n");
+    printf("mohamed\n");
+    printf("khaled \n");
+    
 }
